@@ -2334,7 +2334,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@thirdweb-dev/react@npm:^3":
+"@thirdweb-dev/react@npm:^3.13.1":
   version: 3.13.1
   resolution: "@thirdweb-dev/react@npm:3.13.1"
   dependencies:
@@ -2651,13 +2651,13 @@ __metadata:
   linkType: hard
 
 "@types/react@npm:^17.0.53":
-  version: 17.0.61
-  resolution: "@types/react@npm:17.0.61"
+  version: 17.0.62
+  resolution: "@types/react@npm:17.0.62"
   dependencies:
     "@types/prop-types": "*"
     "@types/scheduler": "*"
     csstype: ^3.0.2
-  checksum: 73fa034c3a9f52f71a33f1bf55d12e1571b0df57b5e65cf6b8e9495842de03f3399121e0f496308d6679c1101e783f1614af7ac23c1228982f229819379b1b7f
+  checksum: 428a5aff44824ef504e9a9259b5894fe44a5db1c344b536990f07e132900ff5b34cbef0be77a84f30f37be1f88fc8b56dce328f568de8d65de3bfe414c05b2e1
   languageName: node
   linkType: hard
 
@@ -4876,12 +4876,12 @@ __metadata:
   linkType: hard
 
 "enhanced-resolve@npm:^5.12.0":
-  version: 5.14.1
-  resolution: "enhanced-resolve@npm:5.14.1"
+  version: 5.15.0
+  resolution: "enhanced-resolve@npm:5.15.0"
   dependencies:
     graceful-fs: ^4.2.4
     tapable: ^2.2.0
-  checksum: ad2a31928b6649eed40d364838449587f731baa63863e83d2629bebaa8be1eabac18b90f89c1784bc805b0818363e99b22547159edd485d7e5ccf18cdc640642
+  checksum: fbd8cdc9263be71cc737aa8a7d6c57b43d6aa38f6cc75dde6fcd3598a130cc465f979d2f4d01bb3bf475acb43817749c79f8eef9be048683602ca91ab52e4f11
   languageName: node
   linkType: hard
 
@@ -7620,7 +7620,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "nft-staking-app@workspace:."
   dependencies:
-    "@thirdweb-dev/react": ^3
+    "@thirdweb-dev/react": ^3.13.1
     "@thirdweb-dev/sdk": ^3.10.21
     "@types/node": ^17.0.45
     "@types/react": ^17.0.53
@@ -7628,8 +7628,8 @@ __metadata:
     eslint-config-next: ^13
     ethers: ^5.7.2
     next: ^13.4.5
-    react: ^18.2
-    react-dom: ^18.2
+    react: ^18.2.0
+    react-dom: ^18.2.0
     typescript: ^4.9.4
   languageName: unknown
   linkType: soft
@@ -8342,7 +8342,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-dom@npm:^18.2":
+"react-dom@npm:^18.2.0":
   version: 18.2.0
   resolution: "react-dom@npm:18.2.0"
   dependencies:
@@ -8429,7 +8429,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react@npm:^18.2":
+"react@npm:^18.2.0":
   version: 18.2.0
   resolution: "react@npm:18.2.0"
   dependencies:

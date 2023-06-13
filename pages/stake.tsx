@@ -96,7 +96,7 @@ const Stake: NextPage = () => {
           </div>
 
           <Web3Button
-            action={(contract) => contract.call("claimRewards")}
+            action={(contract: { call: (arg0: string) => any; }) => contract.call("claimRewards")}
             contractAddress={stakingContractAddress}
           >
             Claim Rewards
